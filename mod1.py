@@ -12,3 +12,4 @@ print(frm_curr,"TO",to_curr)
 result=currency.convert(frm_curr,to_curr,amount)
 
 print("Conversion Amount:",result)
+print("Conversion Amount:",result)
